@@ -36,7 +36,8 @@ The main goal was to generate insights that can help the restaurant optimize men
 ---
 
 ## 🖼️ Dashboard  
-![Pizza Sales Dashboard]()  
+![Pizza Sales Dashboard](https://github.com/EstherOlubiyo/Pizza-Sales-Analysis/blob/main/Screenshot_20250610-070143_1.jpg)  
+
 
 ---
 
