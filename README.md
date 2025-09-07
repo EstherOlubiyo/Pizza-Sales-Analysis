@@ -13,9 +13,9 @@ The main goal was to generate insights that can help the restaurant optimize men
 ---
 
 ## 🛠️ Tools Used  
-- SQL (for querying and joining tables)  
+- Excel (for querying and joining tables)  
 - Excel (data cleaning & summary)  
-- Power BI (dashboard visualization)  
+- Excel (dashboard visualization)  
 
 ---
 
@@ -36,7 +36,7 @@ The main goal was to generate insights that can help the restaurant optimize men
 ---
 
 ## 🖼️ Dashboard  
-![Pizza Sales Dashboard](images/pizza_sales_dashboard.png)  
+![Pizza Sales Dashboard]()  
 
 ---
 
